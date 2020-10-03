@@ -1,6 +1,7 @@
 
-<p align="center"><h2>GREEN BUILDING – SISTEMA DE SOFTWARE DE APOIO À CONSTRUÇÃO CIVIL SUSTENTÁVEL</h2><p>
-  <img src="https://github.com/LuandaRezende/pfc-green-building/blob/master/greenbuilding.JPG">
+<p align="center"><h2>GREEN BUILDING – SISTEMA DE SOFTWARE DE APOIO À CONSTRUÇÃO CIVIL SUSTENTÁVEL</h2>/<p>
+ <p>Equipe: Caio Zeurgo, Luanda Rezende e Miller Pereira</p>
+ <img src="https://github.com/LuandaRezende/pfc-green-building/blob/master/greenbuilding.JPG"/>
 <h2>Sobre o projeto:bulb:</h2>
 <ul>O projeto Green Building tem como objetivo ser utilizado como um canal de negociação entre as lojas de
 material de construção que comercializam produtos sustentáveis e os consumidores interessados neste tipo de produto.</ul>
