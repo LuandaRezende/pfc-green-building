@@ -38,24 +38,24 @@ material de construção que comercializam produtos sustentáveis e os consumido
 <h2>As tecnologias utilizadas no backend :computer: :girl:</h2>
 <ul>
    <li><strong>Java</strong> vr. 8.2 (Linguagem de programação) </li>
-  <p>:information_source: <strong>Por quê?</strong> Porque todas do grupo ja tiveram contato com essa linguagem de programação, e ela ser uma linguagem de programação muito utilizada atualmente.<br>
-  :information_source: <strong>Para que?</strong> Para fazer as requisiçoes do cliente para do servidor.</p>
+  <p>:information_source: <strong>Por quê?</strong> Porque todos do grupo ja tiveram contato com essa linguagem de programação, e ela é uma linguagem muito utilizada atualmente.<br>
+  :information_source: <strong>Para que?</strong> Para fazer o intermédio entre cliente e servidor</p>
   
   <li><strong>SQL</strong> (Linguagem de consulta estruturada)</li>
   <p>:information_source: <strong>Por quê?</strong> Porque utilizamos para o desenvolvimento do projeto um banco de dados relacional.<br>
   :information_source: <strong>Para que?</strong> Para que seja possível a construção do CRUD(Create, Read, Update, Delete), além de escrever queries com múltiplas informações.</p>
   
   <li><strong>Pg Admin</strong> vr. 9.4 - (Persistência de dados)</li>
-  <p>:information_source: <strong>Por quê?</strong> Porque ele é bastante utilizado na web para persistência de dados, além de suporte grande quantidade de dados.<br>
+  <p>:information_source: <strong>Por quê?</strong> Porque ele é bastante utilizado na web para persistência de dados, além de ser robusto.<br>
   :information_source: <strong>Para que?</strong> Para armazenar os dados da aplicação.</p>
   
    <li><strong>Spring MVC</strong> (Framework)</li>
-  <p>:information_source: <strong>Por quê?</strong> Porque com elea juda no desenvolvimento de aplicações web, além de conseguir construir aplicações web robustas e flexíveis.<br>
+  <p>:information_source: <strong>Por quê?</strong> Porque com ele ajuda no desenvolvimento de aplicações web, além de auxiliar na construção de aplicações web robustas e flexíveis.<br>
   :information_source: <strong>Para que?</strong> Para a implementação do padrão MVC na aplicação de forma simples.</p>
   
   <li><strong>Netbeans</strong> vr. 8.2 - (IDE)</li>
   <p>:information_source: <strong>Por quê?</strong> Porque ele permite o desenvolvimento rápido e fácil de aplicações Java web, além de ser uma <strong>IDE</strong> que todos do grupo possuem familiaridade.<br>
-  :information_source: <strong>Para que?</strong> Utilizamos esta o <strong>Netbeans</strong> também para o desenvolvimento do backend.</p> 
+  :information_source: <strong>Para que?</strong> Utilizamos o <strong>Netbeans</strong> também para o desenvolvimento do backend.</p> 
  
 </ul>
 <h2>Funcionalidades</h2>
