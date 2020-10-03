@@ -7,13 +7,13 @@
 material de construção que comercializam produtos sustentáveis e os consumidores interessados neste tipo de produto.</ul>
 <h2>Sobre a arquitetura do projeto :house_with_garden:</h2>
 <ul>O projeto está dividido em duas pastas: backend e frontend e utiliza a arquitetura cliente/servidor.</ul>
-<h2>As Tecnologias utilizadas no frontend :computer: :boy:</h2>
+<h2>As tecnologias utilizadas no frontend :computer: :boy:</h2>
 <ul>
   <li><strong>HTML</strong> (Linguagem de Marcação)</li>
   <p>:information_source: <strong>Por quê?</strong> Porque o <strong>HTML</strong> gera documentos para a web de forma fácil, assegurando a acessibilidade das páginas e sua transmissão pela internet.<br>
   :information_source: <strong>Para que?</strong> Para construção das páginas web</p>
   
-  <li><strong>Css</strong> (Cascading Style Sheets)</li>
+  <li><strong>CSS</strong> (Cascading Style Sheets)</li>
   <p>:information_source: <strong>Por quê?</strong> Porque ele permiter estilizar as páginas sem a necessidade de uma framework.<br>
   :information_source: <strong>Para que?</strong> Utilizamos o <strong>CSS</strong> para estilizar as páginas em que o framework Bootstrap não conseguiam suplir com nossas necessidades.</p>
   
@@ -35,7 +35,7 @@ material de construção que comercializam produtos sustentáveis e os consumido
   
 </ul>
 
-<h2>As Tecnologias utilizadas no backend :computer: :girl:</h2>
+<h2>As tecnologias utilizadas no backend :computer: :girl:</h2>
 <ul>
    <li><strong>Java</strong> vr. 8.2 (Linguagem de programação) </li>
   <p>:information_source: <strong>Por quê?</strong> Porque todas do grupo ja tiveram contato com essa linguagem de programação, e ela ser uma linguagem de programação muito utilizada atualmente.<br>
