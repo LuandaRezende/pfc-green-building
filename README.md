@@ -11,7 +11,7 @@ material de construção que comercializam produtos sustentáveis e os consumido
 <ul>
   <li><strong>HTML</strong> (Linguagem de Marcação)</li>
   <p>:information_source: <strong>Por quê?</strong> Porque o <strong>HTML</strong> gera documentos para a web de forma fácil, assegurando a acessibilidade das páginas e sua transmissão pela internet.<br>
-  :information_source: <strong>Para que?</strong> Para construção das páginas web</p>
+  :information_source: <strong>Para que?</strong> Para construção das páginas web.</p>
   
   <li><strong>CSS</strong> (Cascading Style Sheets)</li>
   <p>:information_source: <strong>Por quê?</strong> Porque ele permiter estilizar as páginas sem a necessidade de uma framework.<br>
