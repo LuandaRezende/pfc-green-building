@@ -14,24 +14,24 @@ material de construção que comercializam produtos sustentáveis e os consumido
   :information_source: <strong>Para que?</strong> Para construção das páginas web.</p>
   
   <li><strong>CSS</strong> (Cascading Style Sheets)</li>
-  <p>:information_source: <strong>Por quê?</strong> Porque ele permiter estilizar as páginas sem a necessidade de uma framework.<br>
-  :information_source: <strong>Para que?</strong> Utilizamos o <strong>CSS</strong> para estilizar as páginas em que o framework Bootstrap não conseguiam suplir com nossas necessidades.</p>
+  <p>:information_source: <strong>Por quê?</strong> ? Porque ele permite a estilização das páginas.<br>
+  :information_source: <strong>Para que?</strong> Utilizamos o <strong>CSS</strong> para estilizar as páginas em que o framework Bootstrap não conseguia suplir com nossas necessidades.</p>
   
   <li><strong>Bootstrap 4</strong> (Framework)</li>
   <p>:information_source: <strong>Por quê?</strong> Porque com ele conseguimos desenvolver componentes de interface e front-end, além de conter uma documentação rica e de fácil entendimento.<br>
-  :information_source: <strong>Para que?</strong> Utilizamos o <strong>Boostrap</strong> para estilizar todas as páginas da aplicação.</p>
+  :information_source: <strong>Para que?</strong> Utilizamos o <strong>Bootstrap</strong> para estilizar todas as páginas da aplicação.</p>
   
   <li><strong>JSP</strong> (JavaServer Pages-Formato de arquivo)</li>
   <p>:information_source: <strong>Por quê?</strong> Porque com ele, podemos contornar algumas limitações no desenvolvimento com Servlets.<br>
   :information_source: <strong>Para que?</strong> O <strong>JSP</strong> é baseado na linguagem Java, e utilizamos ele para dar dinamismo às páginas <strong>HTML</strong>.</p>
   
   <li><strong>JavaScript</strong> (Linguagem de programação)</li>
-  <p>:information_source: <strong>Por quê?</strong> Utilizamos ela porque todos os principais navegadores tem um mecanismo JavaScript dedicado para executá-lo.<br>
+  <p>:information_source: <strong>Por quê?</strong> Utilizamos ela porque todos os principais navegadores tem um mecanismo JavaScript dedicado para executá-la.<br>
   :information_source: <strong>Para que?</strong> Para interagir com a marcação e exibição de conteúdo da linguagem HTML e com a estilização desse conteúdo proporcionada pelo CSS.</p>
   
   <li><strong>Netbeans</strong> vr. 8.2 - (IDE)</li>
   <p>:information_source: <strong>Por quê?</strong> Porque ele permite o desenvolvimento rápido e fácil de aplicações Java web, além de ser uma <strong>IDE</strong> que todos do grupo possuem familiaridade.<br>
-  :information_source: <strong>Para que?</strong> Utilizamos para o desenvolvimento da parte visual do frontend.</p>
+  :information_source: <strong>Para que?</strong> Utilizamos para o desenvolvimento do frontend.</p>
   
 </ul>
 
